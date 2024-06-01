@@ -1,0 +1,51 @@
+.section {
+    margin: 0;
+    padding: 0;
+   
+}
+.hands {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+h1 {
+    padding: 10px 20px;
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    
+    border: 2px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.box2 , .box3{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+.inputTag {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    align-items: center;
+}
+main {
+    margin-top: 20px;
+}
+#result {
+    display: flex;
+    justify-content: center;
+    
+}
+.btn {
+    display: flex;
+    justify-content: center;
+}
